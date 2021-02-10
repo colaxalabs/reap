@@ -1,3 +1,2 @@
-# Reap
+# Reap GraphQL API
 
-Reap server
